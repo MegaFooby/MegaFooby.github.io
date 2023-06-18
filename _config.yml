@@ -18,7 +18,7 @@ urls:
 
 author_logo: profile.png
 author: Cameron Davies
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_bio: A programmer with a passion for all things video games and technology
 author_email: "camdavies@protonmail.com"
 author_location: Calgary AB, Canada
 author_website_url: "https://megafooby.github.io"
@@ -31,7 +31,7 @@ author_work_experiences:
               company_logo: popreach.png
               company_url: https://games.popreach.com/
               designation: Game Developer
-              description: Gameplay developer on PAYDAY':' Crime War
+              description: "Gameplay developer on PAYDAY: Crime War"
               visibility: true
 
 # Education
