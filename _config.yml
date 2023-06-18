@@ -31,7 +31,7 @@ author_work_experiences:
               company_logo: popreach.png
               company_url: https://games.popreach.com/
               designation: Game Developer
-              description: Gameplay developer on PAYDAY Crime War
+              description: Gameplay developer on PAYDAY':' Crime War
               visibility: true
 
 # Education
@@ -45,6 +45,11 @@ author_education_details:
 
 # Projects
 author_project_details:
+              - project_thumbnail: onion_trail.png
+                project_title: Onion Trail
+                project_description: An Oregon Trail like game made with C# and Unity
+                project_url: https://github.com/sirpaulmcd/Onion-Trail-Open
+                visibility: true
               - project_thumbnail: wasteland_warriors.png
                 project_title: Wasteland Warriors
                 project_description: An arena driving game made with C++ and OpenGL
@@ -59,6 +64,7 @@ author_project_details:
                 project_title: Top Gun
                 project_description: A bullet hell game built in Python to experiment with GPIO devices
                 project_url: https://github.com/MegaFooby/CPSC359_Game
+                visibility: true
 
 # social links
 github_username:  MegaFooby
