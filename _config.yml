@@ -1,5 +1,5 @@
 title: Cameron Davies
-subtitle: A Portfolio Jekyll Theme Built for Developers
+subtitle: Game Developer
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -45,16 +45,20 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: wasteland_warriors.png
+                project_title: Wasteland Warriors
+                project_description: An arena driving game made with C++ and OpenGL
+                project_url: https://github.com/MingkHe/CPSC-585-Wasteland-Warriors
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: drawing_with_friends.png
+                project_title: Drawing with Friends
+                project_description: A browser app with vector based drawing chat rooms
+                project_url: https://github.com/MegaFooby/Drawing-with-Friends
                 visibility: true
+              - project_thumbnail: bullet_hell_screenshot.jpg
+                project_title: Top Gun
+                project_description: A bullet hell game built in Python to experiment with GPIO devices
+                project_url: https://github.com/MegaFooby/CPSC359_Game
 
 # social links
 github_username:  MegaFooby
