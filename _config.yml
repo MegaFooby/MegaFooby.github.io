@@ -1,7 +1,7 @@
 title: Cameron Davies
 subtitle: Game Developer
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  Cameron Davies' personal website
 
 url: "https://megafooby.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -32,6 +32,7 @@ author_work_experiences:
               company_url: https://games.popreach.com/
               designation: Game Developer
               description: "Gameplay developer on PAYDAY: Crime War"
+              date: Oct 2021 - Present
               visibility: true
 
 # Education
