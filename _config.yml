@@ -18,7 +18,9 @@ urls:
 
 author_logo: profile.png
 author: Cameron Davies
-author_bio: A programmer with a passion for all things video games and technology
+author_bio: "I am a gameplay programmer with a BSc in Computer Science who is passionate about making fun and engaging gameplay that will keep players coming back wanting more.
+I recently worked on PAYDAY: Crime War as a Unity Developer programming all areas of gameplay such as general gameplay features, HUD, and optimizations.
+I have professional experience in Unity and C# and I am using C++ and Unreal Engine 5 in my personal projects."
 author_email: "camdavies@protonmail.com"
 author_location: Calgary AB, Canada
 author_website_url: "https://megafooby.github.io"
