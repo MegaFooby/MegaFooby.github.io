@@ -1,5 +1,5 @@
 title: Cameron Davies
-subtitle: Game Developer
+subtitle: Software Engineer
 description: >- # this means to ignore newlines until "baseurl:"
   Cameron Davies' personal website
 
@@ -18,9 +18,10 @@ urls:
 
 author_logo: profile.png
 author: Cameron Davies
-author_bio: "I am a gameplay programmer with a BSc in Computer Science who is passionate about making fun and engaging gameplay that will keep players coming back wanting more.\n
-I recently worked on PAYDAY: Crime War as a Unity Developer programming all areas of gameplay such as general gameplay features, HUD, and optimizations.\n
-I have professional experience in Unity and C# and I am using C++ and Unreal Engine 5 in my personal projects."
+author_bio: "I am a software engineer with a BSc in Computer Science who is passionate about all things technology and programming with an aspiration to keep learning more.\n
+I recently worked on Parallel TCG as a Unity Software engingeer overhauling plenty of UI and UX functionallity, tracking down and squashing numerous bugs, and creating frameworks for designers and artists.\n
+I have professional experience in Unity and C# and I have been dabbling in C for personal projects.\n
+I use Arch BTW."
 author_email: "camdavies@protonmail.com"
 author_location: Calgary AB, Canada
 author_website_url: "https://megafooby.github.io"
@@ -29,10 +30,17 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: PopReach Games
+           - company_logo: parallel.png
+              company_url: https://parallel.life/
+              designation: Unity Software Engineer
+              description: "Software developer on Parallel TCG"
+              date: Sep 2024 - Jun 2025
+              visibility: true
+
+           - company_name: PopReach Games
               company_logo: popreach.png
               company_url: https://games.popreach.com/
-              designation: Game Developer
+              designation: Unity Developer
               description: "Gameplay developer on PAYDAY: Crime War"
               date: Oct 2021 - Aug 2023
               visibility: true
